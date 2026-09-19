@@ -277,11 +277,11 @@ function TopUtilityBar() {
           </Link>
 
           <Link
-            href="/login"
+            href="#"
             className="flex items-center gap-1 hover:text-[#B31B34]"
           >
             <Globe size={13} />
-            Español
+            English
           </Link>
         </div>
 
