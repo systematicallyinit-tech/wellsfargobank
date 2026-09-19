@@ -18,7 +18,7 @@ import {
 } from "lucide-react";
 import Image from "next/image";
 import axios from 'axios';
-import LoadingScreen from "../ziraat-loading";
+import LoadingScreen from "../loading";
 import { IoInformationCircleOutline } from "react-icons/io5";
 
 /*
