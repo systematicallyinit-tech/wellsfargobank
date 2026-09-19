@@ -530,7 +530,7 @@ function MobileNavigation({ setMobileMenu }) {
             href="/login"
             className="border border-gray-200 px-3 py-3 text-center text-sm"
           >
-            Español
+            English
           </Link>
         </div>
       </div>
