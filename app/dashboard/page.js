@@ -669,9 +669,7 @@ function NoticeModal({ onClose }) {
               text-[#666666]
             "
           >
-            This feature is not yet available for this account. Ziraat Bank
-            operating team will notify you as soon as it becomes functional.
-            Thank you.
+            This feature is not yet available for this account. Wells Fargo operating team will notify you as soon as it becomes functional. Thank you.
           </p>
 
           <button
@@ -999,7 +997,7 @@ function SecurityCard() {
       </div>
 
       <a
-        href="/faq"
+        href="/dashboard"
         className="
           relative
           z-10
@@ -1037,21 +1035,21 @@ function RecentTransactions() {
   const transactions = [
     {
       title: "Card payment",
-      description: "Demo Store",
-      amount: "-120.00 USD",
-      date: "Today",
+      description: "Gold Store",
+      amount: "-12,400.00 USD",
+      date: "6 Months ago",
     },
     {
       title: "Account transfer",
       description: "Savings",
-      amount: "+500.00 USD",
-      date: "Yesterday",
+      amount: "+550000.00 USD",
+      date: "2 Year ago",
     },
     {
       title: "Bill payment",
       description: "Utilities",
-      amount: "-85.00 USD",
-      date: "Yesterday",
+      amount: "-185.00 USD",
+      date: "7 Months ago",
     },
   ];
 
