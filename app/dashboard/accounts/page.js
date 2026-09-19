@@ -35,9 +35,9 @@ import {
   CalendarDays,
 } from "lucide-react";
 import { useAuth } from '@/app/context/AuthContext';
-import { DashboardHeader } from "../components/Ziraat-DashboardHeader";
+import { DashboardHeader } from "../components/DashboardHeader";
 import { MobileNavigation } from "../components/MobileNavigation";
-import { Sidebar } from "../components/Ziraat-Sidebar";
+import { Sidebar } from "../components/Sidebar";
 import { IoInformationCircleOutline } from "react-icons/io5";
 
 /*
